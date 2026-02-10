@@ -1,0 +1,6 @@
+flet
+trimesh
+aspose-cad
+numpy
+networkx
+scipy

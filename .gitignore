@@ -1,0 +1,14 @@
+__pycache__/
+build/
+dist/
+deps/
+.venv/
+.venv313/
+temp_optimized.stl
+test.py
+test2.py
+test_tk.py
+test_box*
+3DTRF.spec
+python-*.zip
+debug_*.py

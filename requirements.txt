@@ -1,6 +1,7 @@
 flet
 trimesh
-aspose-cad
+# aspose-cad  # Incompatible with Python 3.14
+
 numpy
 networkx
 scipy
